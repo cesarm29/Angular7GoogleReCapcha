@@ -1,0 +1,15 @@
+ .color-green {
+    color: rgb(7, 155, 39);
+ }
+
+ .color-red {
+    color: rgb(219, 4, 4);
+ }
+
+ table a:hover {
+  cursor: pointer;
+}
+
+.main {
+  padding-top: 15px!important;
+}
