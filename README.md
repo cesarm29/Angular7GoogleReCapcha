@@ -2,7 +2,7 @@
 
 ## Angular Captcha
 
-Google reCaptcha implementation for Angular 6 
+Google reCaptcha implementation for Angular 7 
 
 Features: 
 
@@ -14,7 +14,7 @@ Features:
 ## Supported versions
 
 1. For Angular 6 use ngx-captcha on version `5.0.4`
-2. For Angular 7 use ngx-captcha on version `>= 6.0.0`
+2. For Angular 7 use ngx-captcha on version `>= 7.0.0`
 
 ## Installation
 
